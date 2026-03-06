@@ -178,7 +178,7 @@ img {
     position: fixed;
     right: -100%;
     z-index: 999;
-    margin-top: 5rem;
+    /* margin-top: 5rem; */
     transform: translateY(50rem);
     display: flex;
     flex-direction: column;
